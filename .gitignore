@@ -1,0 +1,30 @@
+# Never commit secrets
+.env
+.env.*
+!.env.example
+credentials.json
+*.pem
+*.key
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+.venv/
+venv/
+.uv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Local data
+*.db
+*.sqlite
+*.log

@@ -1,0 +1,8 @@
+[project]
+name = "chatbot"
+version = "0.1.0"
+description = "Chat bot exercise from Anthropic Academy 'Building with the Claude API'"
+requires-python = ">=3.10"
+dependencies = [
+    "anthropic>=0.39.0",
+]
