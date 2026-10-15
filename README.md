@@ -2,7 +2,7 @@
 
 Working code examples and patterns from **Anthropic Academy · "Building with the Claude API"** course, plus real-world production patterns from running Claude at scale in Latin America.
 
-**Built by [Héctor Velasco](https://www.linkedin.com/in/hectorvelasco)** · CEO [H3L Consulting](https://diagnostico.h3l.ai) · Quito, Ecuador
+**Built by [Héctor Velasco](https://www.linkedin.com/in/hectorvelascoa)** · CEO [H3L Consulting](https://diagnostico.h3l.ai) · Quito, Ecuador
 **Course:** https://anthropic.skilljar.com/building-with-the-claude-api
 **Certificate:** Anthropic Academy · Building with the Claude API · May 2026
 
